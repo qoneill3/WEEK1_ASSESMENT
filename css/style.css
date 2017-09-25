@@ -1,3 +1,5 @@
+
+
 * {
      -moz-box-sizing: border-box; /* Firexfox */
      -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
@@ -27,6 +29,8 @@
   float: left;
   padding: 0 10px 10px 0; /* note the padding around a left floated image */
 }
+
+<!-- Header Section -->
 
 header {
   height: 400px;
@@ -70,6 +74,8 @@ header {
   float: right;
 }
 
+<!-- Main Content Section -->
+
 #frame {
   position: absolute;
   left: 450px;
@@ -104,6 +110,9 @@ a {
   margin-left: 10px;
   color: white;
 }
+
+<!-- Footer Section -->
+
 footer {
   position: absolute;
   top: 800px;
